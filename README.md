@@ -1,4 +1,4 @@
-👋 Hi, I’m @s-tyd
+Hi
 
 <!---
 s-tyd/s-tyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
